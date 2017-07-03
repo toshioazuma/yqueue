@@ -1,0 +1,6 @@
+framework module Pods_YQueue_Merchant {
+  umbrella header "Pods-YQueue-Merchant-umbrella.h"
+
+  export *
+  module * { export * }
+}

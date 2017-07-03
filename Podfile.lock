@@ -1,0 +1,87 @@
+PODS:
+  - AWSCognito (2.4.11):
+    - AWSCore (= 2.4.11)
+  - AWSCognitoIdentityProvider (2.4.11):
+    - AWSCore (= 2.4.11)
+  - AWSCore (2.4.11)
+  - AWSDynamoDB (2.4.11):
+    - AWSCore (= 2.4.11)
+  - AWSS3 (2.4.11):
+    - AWSCore (= 2.4.11)
+  - AWSSES (2.4.11):
+    - AWSCore (= 2.4.11)
+  - AWSSNS (2.4.11):
+    - AWSCore (= 2.4.11)
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - Cosmos (7.0.0)
+  - FBSDKCoreKit (4.17.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.17.0):
+    - FBSDKCoreKit
+  - FBSDKShareKit (4.17.0):
+    - FBSDKCoreKit
+  - MBProgressHUD (1.0.0)
+  - MGSwipeTableCell (1.5.6)
+  - ReactiveCocoa (5.0.0-alpha.3):
+    - ReactiveSwift (~> 1.0.0-alpha.3)
+  - ReactiveSwift (1.0.0-alpha.3):
+    - Result (~> 3.0)
+  - Result (3.0.0)
+  - SideMenu (2.0.5)
+  - XLPagerTabStrip (6.0.0)
+
+DEPENDENCIES:
+  - AWSCognito
+  - AWSCognitoIdentityProvider
+  - AWSDynamoDB
+  - AWSS3
+  - AWSSES
+  - AWSSNS
+  - Cosmos (~> 7.0)
+  - FBSDKCoreKit
+  - FBSDKLoginKit
+  - FBSDKShareKit
+  - MBProgressHUD
+  - MGSwipeTableCell
+  - ReactiveCocoa (from `https://github.com/ReactiveCocoa/ReactiveCocoa.git`)
+  - SideMenu
+  - XLPagerTabStrip
+
+EXTERNAL SOURCES:
+  ReactiveCocoa:
+    :git: https://github.com/ReactiveCocoa/ReactiveCocoa.git
+
+CHECKOUT OPTIONS:
+  ReactiveCocoa:
+    :commit: de49e9bd30d032e27d07c0b2073e088e7b5dcaa1
+    :git: https://github.com/ReactiveCocoa/ReactiveCocoa.git
+
+SPEC CHECKSUMS:
+  AWSCognito: e086ad6f499e309dbf0030170cffc65a0bfd27c6
+  AWSCognitoIdentityProvider: e8b124892dba5bbe32f93194220ad4b17bb50677
+  AWSCore: e66b0f50d68f9897cc9e68471062f0cb5379eec5
+  AWSDynamoDB: 1d54c63fe63c2afcd0caea5ce709d1a0b213213f
+  AWSS3: 2f90735901744687eaeb91621fa62ee921db6510
+  AWSSES: 9e0c08215c6dea9aabc84c5cb41c630518632889
+  AWSSNS: 6844814ce167da813e213a4d3f8f0e6c45ae3bed
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  Cosmos: 2c8299147138758f6ebbb247cf1aeed77998bdf9
+  FBSDKCoreKit: 30a21d2d7b92984b3d80497113433c00824c35e9
+  FBSDKLoginKit: 42b7129ac0373ca99eaf4cbebf4d07bd42371f59
+  FBSDKShareKit: 9b573d03fbee36cbaf42d5bb1f2bc019e0d72347
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MGSwipeTableCell: 616700eb0ffd1c611ba909066cb7fd739790a0a7
+  ReactiveCocoa: 85661a7fcc9412b35f1f8d74d7578978e0e971a4
+  ReactiveSwift: d67b677f9574ba614d94022a88fcf456e77fa515
+  Result: 1b3e431f37cbcd3ad89c6aa9ab0ae55515fae3b6
+  SideMenu: 0ecfd407b24e7d36c57fc50ca7f5d7cedb7c8841
+  XLPagerTabStrip: c46e802a8dcac29edbcea573de8fe920e052455b
+
+PODFILE CHECKSUM: 3af566fe6451093a07af47157224ab1d3ea3f07c
+
+COCOAPODS: 1.1.1

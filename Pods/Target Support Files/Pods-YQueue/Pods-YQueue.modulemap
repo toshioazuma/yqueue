@@ -1,0 +1,6 @@
+framework module Pods_YQueue {
+  umbrella header "Pods-YQueue-umbrella.h"
+
+  export *
+  module * { export * }
+}
