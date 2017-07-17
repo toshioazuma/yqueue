@@ -2,7 +2,7 @@
 //  CustomerMenuListVM.swift
 //  YQueue
 //
-//  Created by Aleksandr on 30/11/2016.
+//  Created by Toshio on 30/11/2016.
 //  Copyright © 2016 YQueue. All rights reserved.
 //
 

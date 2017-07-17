@@ -2,7 +2,7 @@
 //  CustomerPaymentAddMethodVC.swift
 //  YQueue
 //
-//  Created by Aleksandr on 21/12/2016.
+//  Created by Toshio on 21/12/2016.
 //  Copyright © 2016 YQueue. All rights reserved.
 //
 

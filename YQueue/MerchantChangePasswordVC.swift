@@ -2,7 +2,7 @@
 //  MerchantChangePasswordVC.swift
 //  YQueue
 //
-//  Created by Aleksandr on 22/11/2016.
+//  Created by Toshio on 22/11/2016.
 //  Copyright © 2016 YQueue. All rights reserved.
 //
 

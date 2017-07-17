@@ -2,7 +2,7 @@
 //  MerchantEditMenuVC.swift
 //  YQueue
 //
-//  Created by Aleksandr on 23/11/2016.
+//  Created by Toshio on 23/11/2016.
 //  Copyright © 2016 YQueue. All rights reserved.
 //
 

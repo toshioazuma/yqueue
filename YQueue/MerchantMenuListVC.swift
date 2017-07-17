@@ -2,7 +2,7 @@
 //  MerchantMenuListVC.swift
 //  YQueue
 //
-//  Created by Aleksandr on 24/11/2016.
+//  Created by Toshio on 24/11/2016.
 //  Copyright © 2016 YQueue. All rights reserved.
 //
 
